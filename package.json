@@ -1,0 +1,30 @@
+{
+  "name": "pseudocode",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonFinney/pseudocode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JasonFinney/pseudocode/issues"
+  },
+  "homepage": "https://github.com/JasonFinney/pseudocode#readme",
+  "description": ""
+}
